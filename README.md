@@ -63,20 +63,18 @@ A classe `Funcionario` representa a entidade principal do sistema, enquanto `Pro
 ## Exemplo de Entidade
 
 ```csharp
-public class Funcionario
+ public Funcionario(int matricula, string nome, string endereço, string cidade, string uf, string cep, string cpf, string telefone, string email, DateTime datanasc)
 {
-    public int Id { get; set; }
-    public string Nome { get; set; }
-    public string Cargo { get; set; }
-    public decimal Salario { get; set; }
-
-    public Funcionario(int id, string nome, string cargo, decimal salario)
-    {
-        Id = id;
-        Nome = nome;
-        Cargo = cargo;
-        Salario = salario;
-    }
+    Matricula = matricula;
+    Nome = nome;
+    Endereço = endereço;
+    Cidade = cidade;
+    Uf = uf;
+    Cep = cep;
+    Cpf = cpf;
+    Telefone = telefone;
+    Email = email;
+    Datanasc = datanasc;
 }
 ```
 

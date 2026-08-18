@@ -1,0 +1,58 @@
+D:\2ºANO - DS AMS\DS\SoFuncionarios\CaFuncionarios\bin\Debug\net8.0\CaFuncionarios.exe
+D:\2ºANO - DS AMS\DS\SoFuncionarios\CaFuncionarios\bin\Debug\net8.0\CaFuncionarios.deps.json
+D:\2ºANO - DS AMS\DS\SoFuncionarios\CaFuncionarios\bin\Debug\net8.0\CaFuncionarios.runtimeconfig.json
+D:\2ºANO - DS AMS\DS\SoFuncionarios\CaFuncionarios\bin\Debug\net8.0\CaFuncionarios.dll
+D:\2ºANO - DS AMS\DS\SoFuncionarios\CaFuncionarios\bin\Debug\net8.0\CaFuncionarios.pdb
+D:\2ºANO - DS AMS\DS\SoFuncionarios\CaFuncionarios\obj\Debug\net8.0\CaFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\2ºANO - DS AMS\DS\SoFuncionarios\CaFuncionarios\obj\Debug\net8.0\CaFuncionarios.AssemblyInfoInputs.cache
+D:\2ºANO - DS AMS\DS\SoFuncionarios\CaFuncionarios\obj\Debug\net8.0\CaFuncionarios.AssemblyInfo.cs
+D:\2ºANO - DS AMS\DS\SoFuncionarios\CaFuncionarios\obj\Debug\net8.0\CaFuncionarios.csproj.CoreCompileInputs.cache
+D:\2ºANO - DS AMS\DS\SoFuncionarios\CaFuncionarios\obj\Debug\net8.0\CaFuncionarios.dll
+D:\2ºANO - DS AMS\DS\SoFuncionarios\CaFuncionarios\obj\Debug\net8.0\refint\CaFuncionarios.dll
+D:\2ºANO - DS AMS\DS\SoFuncionarios\CaFuncionarios\obj\Debug\net8.0\CaFuncionarios.pdb
+D:\2ºANO - DS AMS\DS\SoFuncionarios\CaFuncionarios\obj\Debug\net8.0\CaFuncionarios.genruntimeconfig.cache
+D:\2ºANO - DS AMS\DS\SoFuncionarios\CaFuncionarios\obj\Debug\net8.0\ref\CaFuncionarios.dll
+E:\2ºANO - DS AMS\DS\SoFuncionarios\CaFuncionarios\bin\Debug\net8.0\CaFuncionarios.exe
+E:\2ºANO - DS AMS\DS\SoFuncionarios\CaFuncionarios\bin\Debug\net8.0\CaFuncionarios.deps.json
+E:\2ºANO - DS AMS\DS\SoFuncionarios\CaFuncionarios\bin\Debug\net8.0\CaFuncionarios.runtimeconfig.json
+E:\2ºANO - DS AMS\DS\SoFuncionarios\CaFuncionarios\bin\Debug\net8.0\CaFuncionarios.dll
+E:\2ºANO - DS AMS\DS\SoFuncionarios\CaFuncionarios\bin\Debug\net8.0\CaFuncionarios.pdb
+E:\2ºANO - DS AMS\DS\SoFuncionarios\CaFuncionarios\obj\Debug\net8.0\CaFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+E:\2ºANO - DS AMS\DS\SoFuncionarios\CaFuncionarios\obj\Debug\net8.0\CaFuncionarios.AssemblyInfoInputs.cache
+E:\2ºANO - DS AMS\DS\SoFuncionarios\CaFuncionarios\obj\Debug\net8.0\CaFuncionarios.AssemblyInfo.cs
+E:\2ºANO - DS AMS\DS\SoFuncionarios\CaFuncionarios\obj\Debug\net8.0\CaFuncionarios.csproj.CoreCompileInputs.cache
+E:\2ºANO - DS AMS\DS\SoFuncionarios\CaFuncionarios\obj\Debug\net8.0\CaFuncionarios.dll
+E:\2ºANO - DS AMS\DS\SoFuncionarios\CaFuncionarios\obj\Debug\net8.0\refint\CaFuncionarios.dll
+E:\2ºANO - DS AMS\DS\SoFuncionarios\CaFuncionarios\obj\Debug\net8.0\CaFuncionarios.pdb
+E:\2ºANO - DS AMS\DS\SoFuncionarios\CaFuncionarios\obj\Debug\net8.0\CaFuncionarios.genruntimeconfig.cache
+E:\2ºANO - DS AMS\DS\SoFuncionarios\CaFuncionarios\obj\Debug\net8.0\ref\CaFuncionarios.dll
+C:\Users\thidz\Documentos\Trabalho LF\Works-C-\CaFuncionarios\bin\Debug\net8.0\CaFuncionarios.exe
+C:\Users\thidz\Documentos\Trabalho LF\Works-C-\CaFuncionarios\bin\Debug\net8.0\CaFuncionarios.deps.json
+C:\Users\thidz\Documentos\Trabalho LF\Works-C-\CaFuncionarios\bin\Debug\net8.0\CaFuncionarios.runtimeconfig.json
+C:\Users\thidz\Documentos\Trabalho LF\Works-C-\CaFuncionarios\bin\Debug\net8.0\CaFuncionarios.dll
+C:\Users\thidz\Documentos\Trabalho LF\Works-C-\CaFuncionarios\bin\Debug\net8.0\CaFuncionarios.pdb
+C:\Users\thidz\Documentos\Trabalho LF\Works-C-\CaFuncionarios\obj\Debug\net8.0\CaFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thidz\Documentos\Trabalho LF\Works-C-\CaFuncionarios\obj\Debug\net8.0\CaFuncionarios.AssemblyInfoInputs.cache
+C:\Users\thidz\Documentos\Trabalho LF\Works-C-\CaFuncionarios\obj\Debug\net8.0\CaFuncionarios.AssemblyInfo.cs
+C:\Users\thidz\Documentos\Trabalho LF\Works-C-\CaFuncionarios\obj\Debug\net8.0\CaFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\thidz\Documentos\Trabalho LF\Works-C-\CaFuncionarios\obj\Debug\net8.0\CaFuncionarios.sourcelink.json
+C:\Users\thidz\Documentos\Trabalho LF\Works-C-\CaFuncionarios\obj\Debug\net8.0\CaFuncionarios.dll
+C:\Users\thidz\Documentos\Trabalho LF\Works-C-\CaFuncionarios\obj\Debug\net8.0\refint\CaFuncionarios.dll
+C:\Users\thidz\Documentos\Trabalho LF\Works-C-\CaFuncionarios\obj\Debug\net8.0\CaFuncionarios.pdb
+C:\Users\thidz\Documentos\Trabalho LF\Works-C-\CaFuncionarios\obj\Debug\net8.0\CaFuncionarios.genruntimeconfig.cache
+C:\Users\thidz\Documentos\Trabalho LF\Works-C-\CaFuncionarios\obj\Debug\net8.0\ref\CaFuncionarios.dll
+C:\Users\thidz\Documentos\C#\Works-C-\CaFuncionarios\bin\Debug\net8.0\CaFuncionarios.exe
+C:\Users\thidz\Documentos\C#\Works-C-\CaFuncionarios\bin\Debug\net8.0\CaFuncionarios.deps.json
+C:\Users\thidz\Documentos\C#\Works-C-\CaFuncionarios\bin\Debug\net8.0\CaFuncionarios.runtimeconfig.json
+C:\Users\thidz\Documentos\C#\Works-C-\CaFuncionarios\bin\Debug\net8.0\CaFuncionarios.dll
+C:\Users\thidz\Documentos\C#\Works-C-\CaFuncionarios\bin\Debug\net8.0\CaFuncionarios.pdb
+C:\Users\thidz\Documentos\C#\Works-C-\CaFuncionarios\obj\Debug\net8.0\CaFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thidz\Documentos\C#\Works-C-\CaFuncionarios\obj\Debug\net8.0\CaFuncionarios.AssemblyInfoInputs.cache
+C:\Users\thidz\Documentos\C#\Works-C-\CaFuncionarios\obj\Debug\net8.0\CaFuncionarios.AssemblyInfo.cs
+C:\Users\thidz\Documentos\C#\Works-C-\CaFuncionarios\obj\Debug\net8.0\CaFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\thidz\Documentos\C#\Works-C-\CaFuncionarios\obj\Debug\net8.0\CaFuncionarios.sourcelink.json
+C:\Users\thidz\Documentos\C#\Works-C-\CaFuncionarios\obj\Debug\net8.0\CaFuncionarios.dll
+C:\Users\thidz\Documentos\C#\Works-C-\CaFuncionarios\obj\Debug\net8.0\refint\CaFuncionarios.dll
+C:\Users\thidz\Documentos\C#\Works-C-\CaFuncionarios\obj\Debug\net8.0\CaFuncionarios.pdb
+C:\Users\thidz\Documentos\C#\Works-C-\CaFuncionarios\obj\Debug\net8.0\CaFuncionarios.genruntimeconfig.cache
+C:\Users\thidz\Documentos\C#\Works-C-\CaFuncionarios\obj\Debug\net8.0\ref\CaFuncionarios.dll

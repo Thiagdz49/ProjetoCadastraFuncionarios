@@ -117,7 +117,7 @@ A arquitetura pode ser posteriormente expandida para utilizar persistência de d
 
 ## Status
 
-**Em desenvolvimento**
+**Concluido**
 
 ---
 
